@@ -15,5 +15,6 @@ public class GitTest {
         System.out.println("hello hot-fix Git3!");
         System.out.println("hello hot-fix Git4!");
         System.out.println("Hot-Fix Test!");
+        System.out.println("该行需要推送到git-hub的远程库中去!");
     }
 }
